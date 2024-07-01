@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <br>
-Evaluating Normative Learning in Generative AI for Robust Medical Anomaly Detection
+Evaluating Normative Representation Learning in Generative AI for Robust Anomaly Detection in Brain Imaging
   <br>
 </h1>
 </h1>
